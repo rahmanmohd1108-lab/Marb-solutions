@@ -6,9 +6,9 @@ import { Mail, Phone, MapPin, Send } from 'lucide-react';
 import { toast } from 'sonner';
 
 const contactInfo = [
-  { icon: Mail, label: 'Email', value: 'hello@marbsolutions.com' },
-  { icon: Phone, label: 'Phone', value: '+1 (555) 123-4567' },
-  { icon: MapPin, label: 'Location', value: 'San Francisco, CA' },
+  { icon: Mail, label: 'Email', value: 'rahmanmohd1108@gmail.com' },
+  { icon: Phone, label: 'Phone', value: '+91-9640361108' },
+  { icon: MapPin, label: 'Location', value: 'IDPL, Hyderabad, India' },
 ];
 
 export default function ContactSection() {
