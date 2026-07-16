@@ -9,9 +9,9 @@ const quickLinks = [
 ];
 
 const socialLinks = [
-  { icon: Github, href: '#', label: 'GitHub' },
-  { icon: Linkedin, href: '#', label: 'LinkedIn' },
-  { icon: Twitter, href: '#', label: 'Twitter' },
+  { icon: Github, href: 'https://github.com/rahmanmohd1108-lab', label: 'GitHub' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/in/rahmanmohd/', label: 'LinkedIn' },
+  { icon: Twitter, href: 'https://www.leetcode.com/in/rahmanmohd/', label: 'Twitter' },
 ];
 
 export default function FooterSection() {
